@@ -175,7 +175,7 @@ export const config = {
       title: "Zahnschmuck",
       description: "Trendiger Zahnschmuck - professionell und sicher appliziert. Der besondere Hingucker fur dein Lacheln.",
       price: "ab 25 Euro",
-      image: "/beauty/gel-nails.jpg",
+      image: "/beauty/nails4.jpg",
       benefits: ["Trendy", "Schmerzfrei"],
     },
     {
@@ -264,7 +264,7 @@ export const config = {
     gallery: [
       { url: "/beauty/nails-red.jpg", category: "Nageldesign" },
       { url: "/beauty/nails-pink.jpg", category: "Maniküre" },
-      { url: "/beauty/gel-nails.jpg", category: "Gel Nägel" },
+      { url: "/beauty/nails4.jpg", category: "Gel Nägel" },
       { url: "/beauty/shellac-manicure.jpg", category: "Shellac" },
       { url: "/beauty/natural-nails.jpg", category: "Naturnägel" },
       { url: "/beauty/pedicure-new.jpg", category: "Pedikure" },
