@@ -77,7 +77,7 @@ export const config = {
   owner: {
     name: "Joanna",
     fullName: "Joanna Lopes",
-    image: "/beauty/frau.jpg",
+    image: "/beauty/maniküre 3.png",
     bio: [
       "Als Junior Manager und Creative Lead von Hypnotic Nails & Beauty bringe ich Leidenschaft und Kreativitat in jedes Design.",
       "Unser Team besteht aus zertifizierten Nail Designerinnen der HWK Frankfurt, die mit hochsten Hygiene- und Qualitatsstandards arbeiten.",
@@ -161,7 +161,7 @@ export const config = {
       title: "Shellac Pedikure",
       description: "Verwohnprogramm fur deine Fusse. Professionelle Pedikure mit langanhaltendem Shellac-Lack.",
       price: "ab 40 Euro",
-      image: "/beauty/face.webp",
+      image: "/beauty/pedicure.webp",
       benefits: ["Fusspflege", "Langanhaltend"],
     },
     {
@@ -266,12 +266,12 @@ export const config = {
       { url: "/beauty/maniküre neu.png", category: "Nageldesign" },
       { url: "/beauty/pedicure.webp", category: "Pedikure" },
       { url: "/beauty/color.png", category: "Farben" },
-      { url: "/beauty/behandlung 3.png", category: "Behandlung" },
-      { url: "/beauty/behandlung 2.webp", category: "Behandlung" },
-      { url: "/beauty/face.webp", category: "Beauty" },
+      { url: "/beauty/behandlung 3.png", category: "Nageldesign" },
+      { url: "/beauty/behandlung 2.webp", category: "Nageldesign" },
+      { url: "/beauty/maniküre 3.png", category: "Gel Nägel" },
       { url: "/beauty/contact.png", category: "Studio" },
-      { url: "/beauty/wimpern.png", category: "Beauty" },
-      { url: "/beauty/face2.jpg", category: "Beauty" },
+      { url: "/beauty/maniküre neu.png", category: "Acryl Nägel" },
+      { url: "/beauty/pedicure.webp", category: "Pedikure" },
     ],
   },
 
