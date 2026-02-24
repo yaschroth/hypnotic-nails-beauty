@@ -266,7 +266,7 @@ export const config = {
       { url: "/beauty/nail-art2.jpg", category: "Maniküre" },
       { url: "/beauty/nail-art4.jpg", category: "Gel Nägel" },
       { url: "/beauty/nail-art5.jpg", category: "Shellac" },
-      { url: "/beauty/nail-art6.jpg", category: "Naturnägel" },
+      { url: "/beauty/nails7.jpg", category: "Naturnägel" },
       { url: "/beauty/gallery1.jpg", category: "Pedikure" },
       { url: "/beauty/gallery2.jpg", category: "Maniküre" },
       { url: "/beauty/gallery3.jpg", category: "Nagelkunst" },
