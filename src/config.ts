@@ -147,14 +147,14 @@ export const config = {
       title: "Shellac Manikure",
       description: "Der Klassiker fur gepflegte Hande. Shellac-Lack fur bis zu 2 Wochen Glanz ohne Absplittern.",
       price: "ab 35 Euro",
-      image: "/beauty/behandlung 3.png",
+      image: "/beauty/shellac-manicure.jpg",
       benefits: ["2 Wochen Halt", "Schnell trocknend"],
     },
     {
       title: "Naturnagelversta rkung",
       description: "Sanfte Verstarkung deiner naturlichen Nagel fur mehr Stabilitat ohne kunstliche Verlangerung.",
       price: "ab 30 Euro",
-      image: "/beauty/pedicure.webp",
+      image: "/beauty/natural-nails.jpg",
       benefits: ["Naturlich", "Schonend"],
     },
     {
@@ -258,9 +258,9 @@ export const config = {
   // IMAGES
   // ============================================
   images: {
-    hero: "/beauty/hero main.webp",
+    hero: "/beauty/hero-nails.jpg",
     heroAlt: "Hypnotic Nails & Beauty - Professionelles Nagelstudio Heilbronn",
-    hygiene: "/beauty/contact.png",
+    hygiene: "/beauty/nail-studio.jpg",
     gallery: [
       { url: "/beauty/nails1.jpg", category: "Nageldesign" },
       { url: "/beauty/nails2.jpg", category: "Maniküre" },
