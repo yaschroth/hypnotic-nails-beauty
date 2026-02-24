@@ -269,7 +269,7 @@ export const config = {
       { url: "/beauty/nails7.jpg", category: "Naturnägel" },
       { url: "/beauty/pedicure1.jpg", category: "Pedikure" },
       { url: "/beauty/pedicure2.jpg", category: "Maniküre" },
-      { url: "/beauty/nails1.jpg", category: "Nagelkunst" },
+      { url: "/beauty/manicure1.jpg", category: "Nagelkunst" },
     ],
   },
 
