@@ -1,0 +1,5 @@
+{
+  "name": "Hypnotic Nails & Beauty",
+  "description": "Professional nail studio in Heilbronn offering expert manicures, pedicures, and nail design with gel, acrylic, and shellac. HWK-certified nail designers.",
+  "requestFramePermissions": ["geolocation"]
+}
