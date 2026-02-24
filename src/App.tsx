@@ -204,7 +204,7 @@ const Hero = () => {
           transition={{ delay: 0.7 }}
           className="text-white font-serif text-5xl md:text-7xl font-extralight leading-[1.1] mb-6"
         >
-          Dauerhafte Schönheit <br /> <span className="italic">mit Technologie.</span>
+          Perfektion bis in <br /> <span className="italic">die Fingerspitzen.</span>
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -212,7 +212,7 @@ const Hero = () => {
           transition={{ delay: 0.9 }}
           className="text-white/80 text-lg md:text-xl max-w-2xl mx-auto mb-10 font-light"
         >
-          ICE Dioden-Laser, Permanent Make-up, Aquafacial und mehr. {config.business.yearsExperience} Jahre Erfahrung und modernste Technologie im Wollhaus Center.
+          Gel, Acryl, Shellac und kreatives Nageldesign. {config.business.yearsExperience} Jahre Erfahrung und HWK-zertifizierte Nail Designerinnen in Heilbronn.
         </motion.p>
         <motion.div
           initial={{ opacity: 0 }}
@@ -256,7 +256,7 @@ const Hero = () => {
       <div className="absolute bottom-12 left-6 md:left-12 z-10 hidden md:block">
         <div className="flex items-center gap-4 text-white/60 text-[10px] uppercase tracking-widest">
           <div className="flex items-center gap-2">
-            <ShieldCheck size={14} className="text-primary" aria-hidden="true" /> ICE Dioden-Laser Technologie
+            <ShieldCheck size={14} className="text-primary" aria-hidden="true" /> HWK Zertifizierte Nail Designer
           </div>
           <div className="w-1 h-1 rounded-full bg-white/20" aria-hidden="true"></div>
           <div className="flex items-center gap-2">
@@ -347,11 +347,11 @@ const Services = () => {
     <section id="services" className="py-32 px-6 max-w-7xl mx-auto">
       <div className="flex flex-col md:flex-row md:items-end justify-between mb-20 gap-8">
         <div className="max-w-2xl">
-          <span className="text-primary uppercase tracking-[0.3em] text-[10px] font-bold mb-4 block">Apparative Kosmetik</span>
-          <h2 className="font-serif text-5xl md:text-7xl leading-tight">Hautpflege auf <br /> <span className="italic">höchstem Niveau.</span></h2>
+          <span className="text-primary uppercase tracking-[0.3em] text-[10px] font-bold mb-4 block">Unsere Leistungen</span>
+          <h2 className="font-serif text-5xl md:text-7xl leading-tight">Nageldesign auf <br /> <span className="italic">höchstem Niveau.</span></h2>
         </div>
         <p className="text-black/50 max-w-sm leading-relaxed text-sm">
-          Modernste Technologien für sichtbare Ergebnisse. Ob Falten, Pigmentstörungen oder Akne: Gemeinsam finden wir die optimale Lösung für Ihre Haut.
+          Von klassischer Maniküre bis kreativem Nageldesign. Ob Gel, Acryl oder Shellac: Wir finden den perfekten Look für deine Nägel.
         </p>
       </div>
 
@@ -744,7 +744,7 @@ const ContactSection = () => {
           <div>
             <span className="text-primary uppercase tracking-[0.3em] text-[10px] font-bold mb-4 block">Termin vereinbaren</span>
             <h2 className="font-serif text-5xl md:text-7xl text-white mb-8">Ich freue mich <br /> <span className="italic">auf Sie.</span></h2>
-            <p className="text-white/40 leading-relaxed">Rufen Sie mich an oder schreiben Sie mir eine E-Mail. Gerne berate ich Sie persönlich zu Ihren Hautbedürfnissen und finde die passende Behandlung für Sie.</p>
+            <p className="text-white/40 leading-relaxed">Ruf uns an oder schreib uns eine Nachricht. Wir beraten dich gerne zu deinem Wunsch-Nageldesign und finden den perfekten Termin für dich.</p>
           </div>
 
           <div className="space-y-8">
